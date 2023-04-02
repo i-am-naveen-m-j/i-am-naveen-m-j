@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud, DevOps & Project Management
 - 🌱 I’m working as Cloud and QA Engineer at Acel solutions pvt ltd.
 - 📫 You can reach me on LinkedIn - (https://rb.gy/3n3n)
-- 📫 You can reach me on LinkedIn - [Google](linkedin.com/in/i-am-naveen-m-j)
+- 📫 You can reach me on-[LinkedIn](https://www.linkedin.com/in/i-am-naveen-m-j/)
 
 
 <!---
