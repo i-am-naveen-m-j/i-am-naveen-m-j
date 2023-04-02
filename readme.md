@@ -1,12 +1,12 @@
-# Jane Smith, Cloud & Azure DevOps for PEGA Application, and QA Automation Consultant
+# Naveen Kumar, Cloud & Azure DevOps for PEGA Application, and QA Automation Consultant
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Picture" width="150px" />
+  <img src="https://media.licdn.com/dms/image/D5635AQFQVItzdNrZ-A/profile-framedphoto-shrink_400_400/0/1678871214129?e=1681012800&v=beta&t=Y7f2IcPfAoZa_MtbM1sGwG_bCBe__Vn_BOaf4dPCY6k" />
 </div>
 
 ## About Me
 
-Hi there! 👋 I am a cloud, Azure DevOps for PEGA Application, and QA automation consultant at Acel solutions pvt ltd, with over 7 years of experience in the IT industry. I have a strong background in cloud technologies, PEGA Application development, and software testing, and have worked with a variety of clients to design and implement effective cloud solutions, DevOps processes for PEGA applications, and automation frameworks for QA.
+Hi there! 👋 I am a cloud, Azure DevOps for PEGA Application, and QA automation consultant at Acel solutions pvt ltd, with over 5 years of experience in the IT industry. I have a strong background in cloud technologies, PEGA Application deployment, and software testing, and have worked with a variety of clients to design and implement effective cloud solutions, DevOps processes for PEGA applications, and automation frameworks for QA.
 
 ## Skills
 
@@ -14,15 +14,17 @@ Hi there! 👋 I am a cloud, Azure DevOps for PEGA Application, and QA automatio
   
 | Cloud Infrastructure | DevOps Tools | PEGA Application Development |
 |:--------------------:|:----------------:|:------------------------------:|
-| AWS                  | Azure DevOps     | PEGA 7.x/8.x                   |
-| Azure                | Jenkins          | PEGA Cloud                     |
+| AWS                  | Azure DevOps     | PEGA 8.x                   |
+| Azure                | Jenkins          |                            |
+|                      | Git,GitHub       |                            |
+|                      | Ansible          |                            |
+|                      | Jira             |                            |
+
 
 | Programming Languages | QA Automation Frameworks | Databases  |
 |:-----------------------:|:-----------------------------:|:-------------:|
 | Java                     | Selenium WebDriver            | MySQL         |
-| JavaScript               | Appium                        | Oracle        |
-| Python                   | TestNG                        | MongoDB       |
-| Bash                     | Cucumber                      |               |
+| Java                     | TestNG                        |               |
 
 </div>
 
