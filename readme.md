@@ -1,17 +1,30 @@
 # Jane Smith, Cloud & Azure DevOps for PEGA Application, and QA Automation Consultant
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Profile Picture" width="150px" />
+</div>
+
 ## About Me
 
 Hi there! 👋 I am a cloud, Azure DevOps for PEGA Application, and QA automation consultant at Acel solutions pvt ltd, with over 7 years of experience in the IT industry. I have a strong background in cloud technologies, PEGA Application development, and software testing, and have worked with a variety of clients to design and implement effective cloud solutions, DevOps processes for PEGA applications, and automation frameworks for QA.
 
 ## Skills
 
-- Cloud Infrastructure: AWS, Azure
-- DevOps Tools: Azure DevOps, Jenkins, GitLab CI/CD, Ansible, Terraform
-- PEGA Application Development: PEGA 7.x/8.x, PEGA Cloud
-- Programming Languages: Java, JavaScript, Python, Bash
-- QA Automation Frameworks: Selenium WebDriver, Appium, TestNG, Cucumber, Rest-Assured
-- Databases: MySQL, Oracle, MongoDB
+<div align="center">
+  
+| Cloud Infrastructure | DevOps Tools | PEGA Application Development |
+|:--------------------:|:----------------:|:------------------------------:|
+| AWS                  | Azure DevOps     | PEGA 7.x/8.x                   |
+| Azure                | Jenkins          | PEGA Cloud                     |
+
+| Programming Languages | QA Automation Frameworks | Databases  |
+|:-----------------------:|:-----------------------------:|:-------------:|
+| Java                     | Selenium WebDriver            | MySQL         |
+| JavaScript               | Appium                        | Oracle        |
+| Python                   | TestNG                        | MongoDB       |
+| Bash                     | Cucumber                      |               |
+
+</div>
 
 ## Projects
 
